@@ -1,6 +1,5 @@
 # 💼 PresupGia  
 ## Sistema Corporativo de Gestión de Presupuestos y Costos
-
 ![Estado](https://img.shields.io/badge/🚀_En_Desarrollo-yellow) 
 ![Licencia](https://img.shields.io/badge/Licencia-🔒_Privada-red)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
