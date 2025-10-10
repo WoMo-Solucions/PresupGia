@@ -1,0 +1,15 @@
+.env
+.env.*.local
+*.key
+*.pem
+__pycache__/
+*.pyc
+.venv/
+dist/
+build/
+node_modules/
+.n8n/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
